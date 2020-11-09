@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="254ab5bf-8766-4d3c-9658-10ccb253f5f9" name="Default Changelist" comment="" />
+    <list default="true" id="254ab5bf-8766-4d3c-9658-10ccb253f5f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jsCLwJltTiwlpuZzD8gMCm0L6e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +54,7 @@
       <workItem from="1604583361306" duration="8297000" />
       <workItem from="1604911707853" duration="683000" />
       <workItem from="1604912413117" duration="1480000" />
+      <workItem from="1604913913196" duration="2164000" />
     </task>
     <servers />
   </component>
@@ -55,14 +62,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604913900168">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604913945615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604913900168" />
-    <state x="32" y="118" width="1248" height="787" key="SettingsEditor" timestamp="1604913636067">
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604913945615" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1604914285658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="32" y="118" width="1248" height="787" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604913636067" />
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604914285658" />
+    <state x="825" y="223" key="Github.UntrackedFilesDialog" timestamp="1604914174760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604914174760" />
+    <state x="32" y="118" width="1248" height="787" key="SettingsEditor" timestamp="1604913920007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="32" y="118" width="1248" height="787" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604913920007" />
     <state x="69" y="244" key="run.anything.popup" timestamp="1604583718931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
