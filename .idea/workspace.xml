@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="254ab5bf-8766-4d3c-9658-10ccb253f5f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_zoning3.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_zoning3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style_zoning3.css" beforeDir="false" afterPath="$PROJECT_DIR$/style_zoning3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +79,7 @@
       <workItem from="1605258115238" duration="5000" />
       <workItem from="1605686422006" duration="166000" />
       <workItem from="1605686741686" duration="26000" />
-      <workItem from="1605686979330" duration="9256000" />
+      <workItem from="1605686979330" duration="9597000" />
     </task>
     <task id="LOCAL-00001" summary="test commit 2">
       <created>1604917441921</created>
@@ -167,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605693796649</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="zoning3">
+      <created>1605696303994</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605696303994</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,12 +197,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="zoning3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="513" y="86" width="1022" height="978" key="CommitChangelistDialog2" timestamp="1605693796256">
+    <state x="513" y="86" width="1022" height="978" key="CommitChangelistDialog2" timestamp="1605696303587">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="585" y="85" width="1069" height="955" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604917969304" />
     <state x="624" y="91" width="1022" height="978" key="CommitChangelistDialog2/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605256169388" />
-    <state x="513" y="86" key="CommitChangelistDialog2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605693796256" />
+    <state x="513" y="86" key="CommitChangelistDialog2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605696303587" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604913945615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -215,12 +220,12 @@
     </state>
     <state x="32" y="118" width="1248" height="787" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604917886816" />
     <state x="34" y="127" width="1329" height="878" key="SettingsEditor/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605257041244" />
-    <state x="589" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605693797889">
+    <state x="589" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605696305088">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604917976155" />
     <state x="589" y="273" key="Vcs.Push.Dialog.v2/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605256109274" />
-    <state x="589" y="273" key="Vcs.Push.Dialog.v2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605693797889" />
+    <state x="589" y="273" key="Vcs.Push.Dialog.v2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605696305088" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604918154683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
