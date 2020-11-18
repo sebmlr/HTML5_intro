@@ -15,12 +15,6 @@ P {
     text-align: center
 }
 
-body{
-    margin: 0;
-    border: 0;
-    background-color: #1f1f1f;
-}
-
 header{
     background-color: #ffde59;
     height: 20vh;
@@ -28,7 +22,6 @@ header{
 }
 
 section{
-
     background-color: #1f1f1f;
     height: 60vh;
     padding-top: 20vh;
