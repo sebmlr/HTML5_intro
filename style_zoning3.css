@@ -1,5 +1,23 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+H1{
+    text-align: center;
+    font-size: 80px;
+}
+H2 {
+    text-align: center
+}
+P {
+    text-align: center
+}
+
 body{
     margin: 0;
+    border: 0;
+    background-color: #1f1f1f;
 }
 
 header{
@@ -9,13 +27,10 @@ header{
 }
 
 section{
+
     background-color: #1f1f1f;
     height: 60vh;
     padding-top: 20vh;
-}
-
-.articles{
-    margin-top: 20vh;
 }
 
 #article1{
@@ -23,7 +38,6 @@ section{
     width: 25vw;
     height: 50vh;
     margin-left: 6vw;
-    alignment: center;
 }
 
 #article2{
@@ -42,25 +56,27 @@ section{
     margin-top: -50vh;
 }
 
-#header_art1{
-
+#cercle_art1{
     background-color: #ffde59;
     width: 10vw;
     border-radius: 50%;
     margin-top: -60vh;
-    margin-left: 14.5vw;
+    margin-left: 13.5vw;
 }
-#header_art2{
+#cercle_art2{
     background-color: #ffde59;
     width: 10vw;
     border-radius: 50%;
     margin-top: -20vh;
     margin-left: 44.5vw;
 }
-#header_art3{
+#cercle_art3{
     background-color: #ffde59;
     width: 10vw;
     border-radius: 50%;
     margin-top: -20vh;
     margin-left: 75.5vw;
+}
+.position{
+    vertical-align: center;
 }
