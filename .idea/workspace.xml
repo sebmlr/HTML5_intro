@@ -55,7 +55,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -76,6 +76,8 @@
       <workItem from="1604912413117" duration="1480000" />
       <workItem from="1604913913196" duration="3193000" />
       <workItem from="1605214315555" duration="321000" />
+      <workItem from="1605256012981" duration="1215000" />
+      <workItem from="1605258115238" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="test commit 2">
       <created>1604917441921</created>
@@ -105,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604917969770</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test commit 2">
+      <created>1605256103766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605256103766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,17 +130,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit 2" />
     <option name="LAST_COMMIT_MESSAGE" value="test commit 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="624" y="91" width="1022" height="978" key="CommitChangelistDialog2" timestamp="1605214632934">
+    <state x="624" y="91" width="1022" height="978" key="CommitChangelistDialog2" timestamp="1605256169388">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="585" y="85" width="1069" height="955" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604917969304" />
-    <state x="624" y="91" width="1022" height="978" key="CommitChangelistDialog2/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605214632934" />
+    <state x="624" y="91" width="1022" height="978" key="CommitChangelistDialog2/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605256169388" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604913945615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -144,15 +154,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="825" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604914174760" />
-    <state x="34" y="127" width="1248" height="787" key="SettingsEditor" timestamp="1605214547067">
+    <state x="34" y="127" width="1329" height="878" key="SettingsEditor" timestamp="1605257041244">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="32" y="118" width="1248" height="787" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604917886816" />
-    <state x="34" y="127" key="SettingsEditor/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605214547067" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604917976155">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="34" y="127" width="1329" height="878" key="SettingsEditor/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605257041244" />
+    <state x="589" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605256109274">
+      <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604917976155" />
+    <state x="589" y="273" key="Vcs.Push.Dialog.v2/309.-1080.1536.834/-2715.-89.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605256109274" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604918154683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
