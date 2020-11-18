@@ -26,13 +26,13 @@ section {
     background-color: cadetblue;
     width: 35vw;
     height: 10vh;
-    margin-top: -40vh;
+    margin-top: -60vh;
     margin-left: 20vw;
 }
 #article-midL{
     background-color: #a06e5f;
     width: 35vw;
-    height: 20vh;
+    height: 40vh;
     margin-left: 20vw;
 }
 #footer-midL{
@@ -46,13 +46,13 @@ section {
     background-color: #5fa08e;
     width: 35vw;
     height: 10vh;
-    margin-top: -40vh;
+    margin-top: -60vh;
     margin-left: 55vw;
 }
 #article-midR{
     background-color: #e26623;
     width: 35vw;
-    height: 20vh;
+    height: 40vh;
     margin-left: 55vw;
 }
 #footer-midR{
