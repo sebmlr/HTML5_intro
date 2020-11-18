@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 
-header {
+#header-principal {
     background-color: yellow;
     height: 20vh;
     top: auto;
@@ -16,18 +16,58 @@ nav {
 
 section {
     background-color: blue;
-    width: 60vw;
+    width: 70vw;
     height: 60vh;
     margin-left: 20vw;
     margin-top: -60vh;
 }
 
+#header-midL{
+    background-color: cadetblue;
+    width: 35vw;
+    height: 10vh;
+    margin-top: -40vh;
+    margin-left: 20vw;
+}
+#article-midL{
+    background-color: #a06e5f;
+    width: 35vw;
+    height: 20vh;
+    margin-left: 20vw;
+}
+#footer-midL{
+    background-color: #dce347;
+    width: 35vw;
+    height: 10vh;
+    margin-left: 20vw;
+}
+
+#header-midR{
+    background-color: #5fa08e;
+    width: 35vw;
+    height: 10vh;
+    margin-top: -40vh;
+    margin-left: 55vw;
+}
+#article-midR{
+    background-color: #e26623;
+    width: 35vw;
+    height: 20vh;
+    margin-left: 55vw;
+}
+#footer-midR{
+    background-color: #ffe116;
+    width: 35vw;
+    height: 10vh;
+    margin-left: 55vw;
+}
+
 aside {
     background-color: #2be2ae;
-    width: 20vw;
+    width: 10vw;
     height: 60vh;
     margin-top: -60vh;
-    margin-left: 80vw;
+    margin-left: 90vw;
 }
 
 footer{
