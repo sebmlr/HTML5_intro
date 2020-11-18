@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+
+header {
+    background-color: yellow;
+    height: 20vh;
+    top: auto;
+}
+
+nav {
+    background-color: blueviolet;
+    width: 20vw;
+    height: 60vh;
+}
+
+section {
+    background-color: blue;
+    width: 60vw;
+    height: 60vh;
+    margin-left: 20vw;
+    margin-top: -60vh;
+}
+
+aside {
+    background-color: #2be2ae;
+    width: 20vw;
+    height: 60vh;
+    margin-top: -60vh;
+    margin-left: 80vw;
+}
+
+footer{
+    background-color: red;
+    height: 30vh;
+}
+
